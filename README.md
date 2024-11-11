@@ -54,3 +54,13 @@
 <a href="https://telegram.me/Movie344">
     &nbsp;<img
 src="https://img.shields.io/badge/Telegram Channel-blue?style=flat-square&logo=telegram" width="300" height="45">&nbsp;
+
+<hr></hr>  
+    
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+
+
+</div>
+
+  
